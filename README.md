@@ -42,7 +42,7 @@ The frontend uses React with:
     
     npm install
    
-	npm install express cors multer xlsx
+    npm install express cors multer xlsx
 
 
 3. Start the backend server:
@@ -65,8 +65,8 @@ The frontend uses React with:
     
     npm install
     npm install react-router-dom
-  	npm install -D tailwindcss postcss autoprefixer
-  	npm install xlsx
+    npm install -D tailwindcss postcss autoprefixer
+    npm install xlsx
 
 
 3. Start the React development server:
